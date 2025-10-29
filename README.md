@@ -7,7 +7,7 @@ This is a list of AI-related articles written or contributed to by me across var
 |-----|--------|-----------|------|
 | 1 | **Build A Dual-Purpose App: Text-to-Image and Custom Chatbot Using Comet, GPT-3.5, DALL-E 2, and Streamlit** | Hit Subscribe | [Read Article](https://www.hitsubscribe.com/build-a-dual-purpose-app-text-to-image-and-custom-chatbot-using-comet-gpt-3-5-dall-e-2-and-streamlit/) |
 | 2 | **Build and Monitor an Object Detection Model in 5 Steps Using Comet** | Comet Heartbeat (Medium) | [Read Article](https://heartbeat.comet.ml/build-and-monitor-an-object-detection-model-in-5-steps-using-comet-6b2ca1fb8bbf) |
-| 3 |**10 Benefits of AI In Software Testing You Should Know About**| Autify |  [Read Article] (https://autify.com/blog/benefits-of-ai-in-software-testing)|
+| 3 |**10 Benefits of AI In Software Testing You Should Know About**| Autify |  [Read Article](https://autify.com/blog/benefits-of-ai-in-software-testing)|
 | 4 |**|||
 | 5 | **What is XGBoost?** | How.Dev | [Read Article](https://how.dev/answers/what-is-xgboost) |
 | 6 | **Implementing Logistic Regression Model for Binary Classification** | How.Dev | [Read Article](https://how.dev/answers/implementing-logistic-regression-model-for-binary-classification) |
