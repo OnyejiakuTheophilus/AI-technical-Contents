@@ -1,4 +1,3 @@
-# AI-technical-Contents
 # AI Technical Contents
 
 This is a list of AI-related articles written or contributed to by me across various platforms.
